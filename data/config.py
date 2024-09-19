@@ -2,7 +2,7 @@
 API_ID = 1488
 API_HASH = 'abcde1488'
 
-REF_LINK = "https://t.me/vertus_app_bot/app?startapp=303199608"
+REF_LINK = "t.me/vertus_app_bot/app?startapp=14881488"
 
 DELAYS = {
     'ACCOUNT': [5, 15],  # delay between connections to accounts (the more accounts, the longer the delay)
@@ -17,7 +17,7 @@ BUY_CARD = True
 BUY_UPGRADE = True
 
 PROXY = {
-    "USE_PROXY_FROM_FILE": True,  # True - if use proxy from file, False - if use proxy from accounts.json
+    "USE_PROXY_FROM_FILE": False,  # True - if use proxy from file, False - if use proxy from accounts.json
     "PROXY_PATH": "data/proxy.txt",  # path to file proxy
     "TYPE": {
         "TG": "socks5",  # proxy type for tg client. "socks4", "socks5" and "http" are supported
