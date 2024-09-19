@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 1488
-API_HASH = 'abcde1488'
+API_ID = 26715592
+API_HASH = '87f66d4ba46c5d15eda3965ac41c4c33'
 
 REF_LINK = "t.me/vertus_app_bot/app?startapp=14881488"
 
