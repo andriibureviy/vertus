@@ -2,7 +2,7 @@
 API_ID = 26715592
 API_HASH = '87f66d4ba46c5d15eda3965ac41c4c33'
 
-REF_LINK = "t.me/vertus_app_bot/app?startapp=14881488"
+REF_LINK = "t.me/vertus_app_bot/app?startapp=303199608"
 
 DELAYS = {
     'ACCOUNT': [5, 15],  # delay between connections to accounts (the more accounts, the longer the delay)
