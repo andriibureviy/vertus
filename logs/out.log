@@ -1,0 +1,5 @@
+00:33:20.61 | INFO | utils.core.telegram:pars_sessions:56 | Searched sessions: 22.
+00:33:20.61 | SUCCESS | utils.core.telegram:get_accounts:106 | Search available accounts: 22.
+00:33:20.61 | INFO | utils.core.telegram:check_valid_accounts:85 | Checking accounts for valid...
+00:33:52.86 | SUCCESS | utils.core.telegram:check_valid_accounts:95 | Valid accounts: 0; Invalid: 22
+00:33:52.87 | INFO | utils.core.telegram:get_accounts:112 | Saved 22 invalid account(s) in sessions/invalid_accounts.txt
